@@ -15,3 +15,18 @@ For full documentation visit [mkdocs.org](https://mkdocs.org).
     docs/
         index.md  # The documentation homepage.
         ...       # Other markdown pages, images and other files.
+
+
+How about this:
+
+```
+$ echo "Hello"
+Hello
+```
+
+And this?
+
+```nohighlight
+$ echo "Goodbye"
+Goodbye
+```
