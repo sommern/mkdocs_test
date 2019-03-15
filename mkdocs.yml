@@ -1,5 +1,1 @@
-site_name: Larasynth Documentation
-repo_url: https://github.com/sommern/mkdocs_test
-pages:
-- Home: index.md
-theme: readthedocs
+site_name: My Docs
